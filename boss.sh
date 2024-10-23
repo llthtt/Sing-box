@@ -92,8 +92,8 @@ echo '{
     "strategy": "prefer_ipv4",
     "static_ips": {
       "m.tiktok.com": [
-        "23.202.34.251",
-        "23.202.34.250",
+        "23.202.34.242",
+        "184.26.91.31",
         "23.202.34.249",
         "23.202.34.248"
       ]
@@ -108,7 +108,7 @@ echo '{
       "sniff": true,
       "users": [
         {
-          "uuid": "thoitiet"
+          "uuid": "0976878191"
         }
       ],
       "multiplex": {
